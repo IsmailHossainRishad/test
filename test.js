@@ -1,3 +1,3 @@
 console.log("Hello World from rishad! How are you?")
 console.log("Hello World from rishad!")
- a = "hi! How is your day?",
+let a = "hi! How is your day?";
